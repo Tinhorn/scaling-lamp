@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tinhorn.scalinglamp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tinhorn.scalinglamp.MyBundle
 
 class MyApplicationService {
 
